@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Portfolio app",
+    "description": "This project aims to develop a portfolio app, showcasing professional achievements and skills.",
+    "skills": ["React", "Node JS"]
+  },
+  {
+    "title": "To-Do List",
+    "description": "This project involves creating a to-do list application to help users organize their tasks and manage their schedules effectively.",
+    "skills": ["React", "Node JS"]
+  },
+  {
+    "title": "Media as medium",
+    "description": "This project aims to develop a website for social journalism, allowing users to publish and view articles.",
+    "skills": ["Node JS"]
+  }
+]
