@@ -1,8 +1,10 @@
-# React + Vite
+Приветствую!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Вот несколько ключевых моментов о проекте:
 
-Currently, two official plugins are available:
+1. Все изображения хранятся в папках, соответствующих разделам страницы, внутри папки assets.
+2. Я постарался сделать структуру проекта понятной и удобной для работы, разделив файлы по соответствующим папкам.
+3. Для удобства использования базовых цветов и шрифтов я добавил импорт данных из файла vars.css при помощи @import "../../vars.css".
+4. В файле utils.js содержится функция, которая позволяет получить URL изображения на веб-сайте. Просто передайте ей название изображения, и она вернет URL, по которому можно найти это изображение.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Надеюсь, эти пояснения помогут вам лучше понять структуру и особенности проекта!
